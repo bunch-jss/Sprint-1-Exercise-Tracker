@@ -1,0 +1,59 @@
+{
+    "name": "Sprint 1 \u2013 Learning & Exercises",
+    "body": "This sprint covers exercise tasks for the next 2 weeks. Track your progress using To Do \u2192 In Progress \u2192 Review \u2192 Done.",
+    "columns": [
+        {
+            "name": "To Do"
+        },
+        {
+            "name": "In Progress"
+        },
+        {
+            "name": "Review / Testing"
+        },
+        {
+            "name": "Done"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Complete Python Basics Module",
+            "body": "Learn variables, loops, functions, and data types.",
+            "labels": [
+                "learning",
+                "python"
+            ]
+        },
+        {
+            "title": "Build a Simple Django CRUD App",
+            "body": "Create a small web app with Create, Read, Update, Delete functionality.",
+            "labels": [
+                "project",
+                "django"
+            ]
+        },
+        {
+            "title": "Write Notes on Git & GitHub Workflows",
+            "body": "Summarize commands: clone, branch, pull, push, PR workflow.",
+            "labels": [
+                "documentation",
+                "git"
+            ]
+        },
+        {
+            "title": "Solve 5 Coding Challenges on LeetCode",
+            "body": "Practice problem-solving with arrays and strings.",
+            "labels": [
+                "practice",
+                "algorithms"
+            ]
+        },
+        {
+            "title": "Document Sprint Retrospective",
+            "body": "Write down what went well, what was hard, and improvements for next sprint.",
+            "labels": [
+                "retrospective"
+            ]
+        }
+    ]
+}
