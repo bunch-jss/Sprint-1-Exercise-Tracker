@@ -1,5 +1,7 @@
 # Sprint-1-Exercise-Tracker
-# Comments in Python<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/c102bd48-a939-4ea3-9467-1eddf20c80a0" />
+# Comments in Python
+In Python we have ways to comment our code
+<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/c102bd48-a939-4ea3-9467-1eddf20c80a0" />
 
 # Practise to Week 1 Learning
 
